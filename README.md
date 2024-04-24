@@ -21,7 +21,6 @@
 <a href="https://linkedin.com/in/braham-kumar-sah-98867a260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="braham-kumar-sah-98867a260" height="30" width="40" /></a>
 <a href="https://fb.com/brahamkumar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brahamkumar02" height="30" width="40" /></a>
 <a href="https://instagram.com/braham__02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="braham__02" height="30" width="40" /></a>
-<a href="/https://vtucode.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://vtucode.in" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
