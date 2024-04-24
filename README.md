@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Braham Kumar</h1>
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" height="450" width="80%" align-t-item="center"></img>
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" height="450" width="100%" align-t-item="center"></img>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahamkumar002&label=Profile%20views&color=0e75b6&style=flat" alt="brahamkumar002" /> </p>
