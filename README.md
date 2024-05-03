@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, MYSQL**
 
-- 📫 How to reach me **brauuniyar27@gmail.com**
+- 📫 How to reach me **brauniyar27@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
