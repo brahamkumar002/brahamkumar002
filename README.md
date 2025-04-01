@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React js, Tailwind CSS**
 
-- 📝 I regularly write articles on [https://vtucode.in](https://vtucode.in)
+- 📝 I regularly write articles on [https://vtucircle.com](https://vtucircle.com)
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, MYSQL**
 
